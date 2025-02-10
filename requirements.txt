@@ -1,6 +1,5 @@
-pandas
-streamlit
-plotly
-plotly.express
-matplotlib
-re
+pandas==2.2.3
+streamlit==1.42.0
+plotly=6.0.0
+plotly.express==0.4.1
+matplotlib==3.10.0
